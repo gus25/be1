@@ -1,6 +1,6 @@
 
 
-//let n=1; 
+let n=1; 
   
 let div1 = document.getElementById('contenedor1');
 
