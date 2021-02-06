@@ -122,7 +122,7 @@ document.getElementById("txt2").innerHTML = "✅💥Como hacer crecer el cabello
 												"https://youtu.be/Uyl2EQTjb3k";
   
 document.getElementById("img3").src= "imgv/3.png";
-document.getElementById('txt3').innerHTML =	"💥5 Remedios caseros para la piel muy facil de hacer!️😮💥<br>"+
+document.getElementById('txt3').innerHTML =	"💥5 Remedios caseros para la piel muy fácil de hacer!️😮💥<br>"+
 												"⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ <br>"+
 												"https://youtu.be/xQmj07N30ls"; 
   
