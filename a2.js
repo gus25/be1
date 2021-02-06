@@ -50,7 +50,7 @@ var hoy = new Date();
 var dia = hoy.getDate();
 var mes = hoy.getMonth() + 1;  
   
-for (var j = 1; j <= 55; j++) {
+for (var j = 1; j <= 4; j++) {
   
 	var checked = JSON.parse(localStorage.getItem("checkbox"+n+"#"+j));
     if (checked == true)
