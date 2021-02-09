@@ -5,7 +5,7 @@
 let div1 = document.getElementById('contenedor1');
 
  
-for (var k = 1 ; k <= 4; k++) {
+for (var k = 1 ; k <= 5; k++) {
 
 	div1.innerHTML += 
     '<div class="numero" id="num'+k+'">'+k+'</div>'+
@@ -132,6 +132,14 @@ document.getElementById('txt4').innerHTML =	"✅💥Como hacer Gel anti bacteria
 												"https://youtu.be/fyo87tI69j4";  
   
   
+
+document.getElementById("img4").src= "imgv/5.png"; 
+document.getElementById('txt4').innerHTML =	"✅💥EL EXPERIMENTO QUE CAMBIO MI CABELLO PARA SIEMPRE! Repolarización!💥💡😮 <br>"+
+												"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇 <br>"+
+												"https://youtu.be/RH6uMj0cbNU";  
+
+
+
 
 
 
