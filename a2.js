@@ -50,7 +50,7 @@ var hoy = new Date();
 var dia = hoy.getDate();
 var mes = hoy.getMonth() + 1;  
   
-for (var j = 1; j <= 4; j++) {
+for (var j = 1; j <= 5; j++) {
   
 	var checked = JSON.parse(localStorage.getItem("checkbox"+n+"#"+j));
     if (checked == true)
@@ -133,8 +133,8 @@ document.getElementById('txt4').innerHTML =	"✅💥Como hacer Gel anti bacteria
   
   
 
-document.getElementById("img4").src= "imgv/5.png"; 
-document.getElementById('txt4').innerHTML =	"✅💥EL EXPERIMENTO QUE CAMBIO MI CABELLO PARA SIEMPRE! Repolarización!💥💡😮 <br>"+
+document.getElementById("img5").src= "imgv/5.png"; 
+document.getElementById('txt5').innerHTML =	"✅💥EL EXPERIMENTO QUE CAMBIO MI CABELLO PARA SIEMPRE! Repolarización!💥💡😮 <br>"+
 												"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇 <br>"+
 												"https://youtu.be/RH6uMj0cbNU";  
 
