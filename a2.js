@@ -111,30 +111,30 @@ for (var j = 1; j <= 5; j++) {
 }
 
 document.getElementById("img1").src= "imgv/1.png"; 
-document.getElementById("txt1").innerHTML = "➡✅Como hacer keratina casera para alisar tu cabello de forma natural😮✅<br>"+
+document.getElementById("txt1").innerHTML = "➡✅Como hacer keratina casera para alisar tu cabello de forma natural😮🌺✅<br>"+
 												"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br>"+
 												"https://youtu.be/Gk96hYziOpc";
 
    
 document.getElementById("img2").src= "imgv/2.png"; 
-document.getElementById("txt2").innerHTML = "✅💥Como hacer crecer el cabello en tiempo record con esta receta!😮<br>"+
+document.getElementById("txt2").innerHTML = "✅💥Como hacer crecer el cabello en tiempo record con esta receta!😮🌺<br>"+
 												"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br>"+
 												"https://youtu.be/Uyl2EQTjb3k";
   
 document.getElementById("img3").src= "imgv/3a.png";
-document.getElementById('txt3').innerHTML =	"💥5 Remedios caseros para la piel muy fácil de hacer!️😮💥<br>"+
+document.getElementById('txt3').innerHTML =	"💥5 Remedios caseros para la piel muy fácil de hacer!️😮🌺💥<br>"+
 												"⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ <br>"+
 												"https://youtu.be/xQmj07N30ls"; 
   
 document.getElementById("img4").src= "imgv/4.png"; 
-document.getElementById('txt4').innerHTML =	"✅💥Como hacer Gel anti bacterial casero super facil!💥💡😮 <br>"+
+document.getElementById('txt4').innerHTML =	"✅💥Como hacer Gel anti bacterial casero super facil!💥🌷😮 <br>"+
 												"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇 <br>"+
 												"https://youtu.be/fyo87tI69j4";  
   
   
 
 document.getElementById("img5").src= "imgv/5.png"; 
-document.getElementById('txt5').innerHTML =	"✅💥EL EXPERIMENTO QUE CAMBIO MI CABELLO PARA SIEMPRE! Repolarización!💥💡😮 <br>"+
+document.getElementById('txt5').innerHTML =	"✅💥EL EXPERIMENTO QUE CAMBIO MI CABELLO PARA SIEMPRE! Repolarización!💥🌷😮 <br>"+
 												"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇 <br>"+
 												"https://youtu.be/RH6uMj0cbNU";  
 
