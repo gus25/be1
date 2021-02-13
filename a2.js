@@ -123,12 +123,12 @@ document.getElementById("txt2").innerHTML = "✅💥Como hacer crecer el cabello
   
 document.getElementById("img3").src= "imgv/3a.png";
 document.getElementById('txt3').innerHTML =	"💥5 Remedios caseros para la piel muy fácil de hacer!️😮🌺💥<br>"+
-												"Di gracias se te gustan los remedios naturales⬇️ <br>"+
+												"Di gracias si te gustan los remedios naturales⬇️ <br>"+
 												"https://youtu.be/xQmj07N30ls"; 
   
 document.getElementById("img4").src= "imgv/4.png"; 
 document.getElementById('txt4').innerHTML =	"✅💥Como hacer Gel anti bacterial casero super facil!💥🌷😮 <br>"+
-												"Do gracias si te gustan las recetas naturales👇 <br>"+
+												"Di gracias si te gustan las recetas naturales👇 <br>"+
 												"https://youtu.be/fyo87tI69j4";  
   
   
